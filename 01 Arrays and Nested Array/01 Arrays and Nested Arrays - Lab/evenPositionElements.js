@@ -6,7 +6,7 @@ function evenPosition(input) {
 }
 evenPosition(['20', '30', '40', '50', '60'])
 
-//Друг Вариант  ne m,oga da q ponqsqm tazi huinq 
+//Друг Вариант 
 
 /*
 function evenPosition(input) {
